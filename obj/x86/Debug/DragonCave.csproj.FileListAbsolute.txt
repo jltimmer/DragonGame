@@ -1,0 +1,4 @@
+C:\Users\Janna\Documents\Projects\DragonCave\DragonCave\bin\Debug\DragonCave.exe
+C:\Users\Janna\Documents\Projects\DragonCave\DragonCave\bin\Debug\DragonCave.pdb
+C:\Users\Janna\Documents\Projects\DragonCave\DragonCave\obj\x86\Debug\DragonCave.exe
+C:\Users\Janna\Documents\Projects\DragonCave\DragonCave\obj\x86\Debug\DragonCave.pdb
